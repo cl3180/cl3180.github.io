@@ -20,13 +20,13 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 5em;
+    font-size: 3em;
     /**font-family:'Helvetica', 'Arial', 'Sans-Serif';**/
     font-family:'Helvetica';
 }
 
 h2 {
-    font-size: 5em;
+    font-size: 2em;
     /**font-family:'Helvetica', 'Arial', 'Sans-Serif';**/
     font-family:'Helvetica';
 }
