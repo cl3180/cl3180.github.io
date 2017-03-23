@@ -1,5 +1,5 @@
 body {
-    top: 30%;
+    top: 40%;
     /**margin: 20px auto;**/
     margin: 15%;
     left: 30%;
@@ -17,7 +17,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #333;
+    color: #72bcd4;
     font-size: 2em;
 }
 a:hover {
@@ -31,7 +31,7 @@ h1 {
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 1.5em;
     /**font-family:'Helvetica', 'Arial', 'Sans-Serif';**/
     font-family:'Helvetica';
     color: #333;
