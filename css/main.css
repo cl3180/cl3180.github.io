@@ -24,14 +24,14 @@ h1 {
     font-size: 4em;
     /**font-family:'Helvetica', 'Arial', 'Sans-Serif';**/
     font-family:'Helvetica';
-    color: #FEFEFE
+    color: #333;
 }
 
 h2 {
     font-size: 2em;
     /**font-family:'Helvetica', 'Arial', 'Sans-Serif';**/
     font-family:'Helvetica';
-    color: #FEFEFE
+    color: #333;
 }
 
 p {
