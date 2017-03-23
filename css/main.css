@@ -24,6 +24,13 @@ h1 {
     /**font-family:'Helvetica', 'Arial', 'Sans-Serif';**/
     font-family:'Helvetica';
 }
+
+h2 {
+    font-size: 5em;
+    /**font-family:'Helvetica', 'Arial', 'Sans-Serif';**/
+    font-family:'Helvetica';
+}
+
 p {
     font-size: 1.5em;
     font-family: 'Helvetica';
